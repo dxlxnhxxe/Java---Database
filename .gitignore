@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+._*
+
+# Thumbnails
+.Trashes
+
+# Files that might appear in the repo
+.Spotlight-V100
+.DocumentRevisions-V100
+.fseventsd
